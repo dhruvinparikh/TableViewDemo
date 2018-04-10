@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		910763AD207D45390092A4F6 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910763AC207D45390092A4F6 /* TableViewController.swift */; };
+		910763AF207D4A010092A4F6 /* Colosseum.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 910763AE207D4A010092A4F6 /* Colosseum.jpg */; };
+		910763B1207D4A0A0092A4F6 /* pyramid.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 910763B0207D4A0A0092A4F6 /* pyramid.jpg */; };
+		910763B3207D4A100092A4F6 /* GreatWall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 910763B2207D4A100092A4F6 /* GreatWall.jpg */; };
 		91E6A155207D436800EF6C64 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E6A154207D436800EF6C64 /* AppDelegate.swift */; };
 		91E6A157207D436800EF6C64 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E6A156207D436800EF6C64 /* ViewController.swift */; };
 		91E6A15A207D436800EF6C64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91E6A158207D436800EF6C64 /* Main.storyboard */; };
@@ -17,6 +20,9 @@
 
 /* Begin PBXFileReference section */
 		910763AC207D45390092A4F6 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		910763AE207D4A010092A4F6 /* Colosseum.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Colosseum.jpg; path = ../../DemoDynamicTableView/DemoDynamicTableView/Colosseum.jpg; sourceTree = "<group>"; };
+		910763B0207D4A0A0092A4F6 /* pyramid.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pyramid.jpg; path = ../../DemoDynamicTableView/DemoDynamicTableView/pyramid.jpg; sourceTree = "<group>"; };
+		910763B2207D4A100092A4F6 /* GreatWall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = GreatWall.jpg; path = ../../DemoDynamicTableView/DemoDynamicTableView/GreatWall.jpg; sourceTree = "<group>"; };
 		91E6A151207D436800EF6C64 /* TableViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		91E6A154207D436800EF6C64 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		91E6A156207D436800EF6C64 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				91E6A15D207D436800EF6C64 /* LaunchScreen.storyboard */,
 				91E6A160207D436800EF6C64 /* Info.plist */,
 				910763AC207D45390092A4F6 /* TableViewController.swift */,
+				910763AE207D4A010092A4F6 /* Colosseum.jpg */,
+				910763B0207D4A0A0092A4F6 /* pyramid.jpg */,
+				910763B2207D4A100092A4F6 /* GreatWall.jpg */,
 			);
 			path = TableViewDemo;
 			sourceTree = "<group>";
@@ -128,7 +137,10 @@
 			files = (
 				91E6A15F207D436800EF6C64 /* LaunchScreen.storyboard in Resources */,
 				91E6A15C207D436800EF6C64 /* Assets.xcassets in Resources */,
+				910763B1207D4A0A0092A4F6 /* pyramid.jpg in Resources */,
+				910763AF207D4A010092A4F6 /* Colosseum.jpg in Resources */,
 				91E6A15A207D436800EF6C64 /* Main.storyboard in Resources */,
+				910763B3207D4A100092A4F6 /* GreatWall.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

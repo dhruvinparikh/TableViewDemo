@@ -15,7 +15,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        labelView.text = wonders[myIndex]
+        labelView.text = wonderDesc[myIndex]
+        imageView.image = UIImage(named: (wonders[myIndex] + ".jpg"))
     }
 
     override func didReceiveMemoryWarning() {

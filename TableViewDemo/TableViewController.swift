@@ -9,6 +9,7 @@
 import UIKit
 
 var wonders = ["pyramid","Colosseum","GreatWall"]
+var wonderDesc = ["Great Pyramid of Giza","Colosseum im Rome","Great Wall of china"]
 var myIndex = 0
 class TableViewController: UITableViewController {
 
